@@ -1,0 +1,47 @@
+body{
+    margin: auto;
+  }
+    .containerc{
+        display: flex;
+     background-color: #f4f4f4;
+        justify-content: center;
+        align-items: center;
+        height: 800px;
+ 
+       
+    
+        
+    }
+
+    form{
+        display: flex;
+        flex-direction: column;
+        align-content: space-between;
+       padding:2%;
+       background-color: white;
+       box-shadow: 5px 10px 8px #888888;
+      opacity: 0.95;
+        width: 30%;
+        border-radius: 20px;
+       min-height:400px;
+
+       
+    }  .signForm{
+      background-color:
+      #346057;
+      color:white ;
+      border-radius: 50px;
+      height: 50px;
+     }
+   form input{
+  
+        height: 40px;
+  
+    }
+
+    .forget{
+      font-size: smaller; 
+        color: rgb(151, 150, 150);
+        margin-left:22%;
+     
+    } 
